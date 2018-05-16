@@ -123,7 +123,7 @@ function slmaster_widgets_init() {
 add_action( 'widgets_init', 'slmaster_widgets_init' );
 
 /**
- * Enqueue scripts and styles.
+ * Enqueue scripts and styles
  */ 
 function slmaster_scripts() {
 	wp_enqueue_style( 'slmaster-style', get_stylesheet_uri() );
