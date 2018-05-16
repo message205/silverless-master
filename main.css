@@ -286,6 +286,7 @@ template {
   display: none !important; }
 
 /*! == VARIABLES == */
+/*! == TYPOGRAPHY == */
 /*!
  * Bootstrap v4.0.0 (https://getbootstrap.com)
  * Copyright 2011-2018 The Bootstrap Authors
@@ -6471,3 +6472,5 @@ a.text-dark:focus {
   .table-bordered th,
   .table-bordered td {
     border: 1px solid #ddd !important; } }
+
+/*! == PAGE STYLES == */
